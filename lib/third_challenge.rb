@@ -54,6 +54,8 @@ def third_challenge
           attitude: "confused"
         },
         {
+          name: "Nurse",
+          age: "44",
           
         }
       ]
