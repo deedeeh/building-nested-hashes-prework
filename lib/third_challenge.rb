@@ -23,7 +23,8 @@ def third_challenge
         },
         {
           
-        }]
+        }
+        ]
    }, 
    :capulet => {
       :patriarch => {
